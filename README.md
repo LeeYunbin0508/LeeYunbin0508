@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yunbin's_GitHub&fontSize=90)
 
-                                                     Hi my name is Yunbin 😺
+                                                     Hi my name is Yunbin 👋
+                                                     I'm majored in Molecular Biology 🧬 & Chemistry 💊
+                                                     Interested in pharmaceutical industry (QA / QC / RA)
+                                                  
                                                          💌 contact 💌
-                                                    ![OhYeahThumbsUpGIF](https://github.com/LeeYunbin0508/LeeYunbin0508/assets/154854845/87fdf5eb-831b-4a83-89f4-75dccfa9e16c)
+                                                  mail info: dbsqls1357@pusan.ac.kr
+ 
+                                                         ⚒️ stack ⚒️
+                                                         <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+
+
